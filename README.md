@@ -1,13 +1,13 @@
 # Data-Science-Playground
-Any prediction or classification will have the following steps, ofcourse there are data set :
-Get the data
-Clean the data
-Split the data into train and test
-Inspect the data
-Split features from labels
-Normalise the data 
-The model - Build the model
-            Inspect the model
-            Train the model
-            Make predictions
+Any prediction or classification will have the following steps, ofcourse there are data set :<br/>
+Get the data<br/>
+Clean the data<br/>
+Split the data into train and test<br/>
+Inspect the data<br/>
+Split features from labels<br/>
+Normalise the data <br/>
+The model - Build the model<br/>
+            Inspect the model<br/>
+            Train the model<br/>
+            Make predictions<br/>
 Conclusions
