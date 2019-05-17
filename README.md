@@ -6,8 +6,9 @@ Split the data into train and test<br/>
 Inspect the data<br/>
 Split features from labels<br/>
 Normalise the data <br/>
-The model - Build the model<br/>
-            Inspect the model<br/>
-            Train the model<br/>
-            Make predictions<br/>
+The model - <br/>
+Build the model<br/>
+Inspect the model<br/>
+Train the model<br/>
+Make predictions<br/>
 Conclusions
