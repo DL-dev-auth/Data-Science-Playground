@@ -5,7 +5,7 @@ Clean the data
 Split the data into train and test
 Inspect the data
 Split features from labels
-Normalise the data
+Normalise the data 
 The model - Build the model
             Inspect the model
             Train the model
